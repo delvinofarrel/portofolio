@@ -1,0 +1,68 @@
+.judul{
+    color: darkgreen;
+}
+.text{
+    color: blueviolet;
+}
+.button-1{
+    background-color: success;
+}
+.button-1:hover{
+    background-color: gray;
+    transition: 1.0s;
+}
+.button-2{
+    background-color: success;
+}
+.button-2:hover{
+    background-color: gray;
+    transition: 1.0s;
+}
+.button-3{
+    background-color: success;
+}
+.button-3:hover{
+    background-color: gray;
+    transition: 1.0s;
+}
+.button-4{
+    background-color: success;
+}
+.button-4:hover{
+    background-color: gray;
+    transition: 1.0s;
+}
+.btn-about{
+    background-color: success;
+}
+.btn-about:hover{
+    background-color: gray;
+    transition: 1.0s;
+}
+.btn-resume{
+    background-color: success;
+}
+.btn-resume:hover{
+    background-color: gray;
+    transition: 1.0s;
+}
+.rounded-border{
+    border-radius: 50px;
+}
+.img-kanan{
+    filter: grayscale(100);
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: success;
+}
+#container div{
+    height: 365px;
+    width: 345px;
+    background: white;
+    margin: 60px;
+    text-align: center;
+}
